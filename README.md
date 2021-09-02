@@ -19,11 +19,11 @@ Open main.py in VS Code. In main.py, you will see a world variable defined on li
 
 Your final task is to implement each of the three functions that are part of the game loop: render(), get_input(), and update().
 
-render() should display the name and description (using the "cleanText" key) of the current location. You can choose to print out the player's options if you would like to.
+#render()# should display the name and description (using the "cleanText" key) of the current location. You can choose to print out the player's options if you would like to.
 
-get_input() should ask the player what they would like to do and return what the player types in response. I would recommend normalizing that response using .upper() (to make it upper case) and .strip() (to remove any extraneous whitespace).
+#get_input()# should ask the player what they would like to do and return what the player types in response. I would recommend normalizing that response using .upper() (to make it upper case) and .strip() (to remove any extraneous whitespace).
 
-update() should check the player's response against the list of links in the current passage. If the player's response matches the "linkText", update() should return the name of the new location.
+#update()# should check the player's response against the list of links in the current passage. If the player's response matches the "linkText", update() should return the name of the new location.
 
 This is probably the learning-curve jump so far, so if this seems overwhelming, feel free to follow my video demonstration. When you are  done, run the program to make sure it is functioning correctly. Then, save your files and return to Github Desktop.
 
