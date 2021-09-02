@@ -1,6 +1,8 @@
 # Exercise-01d-render-get_input-update
 Exercise for MSCH-C220, 2 September 2021
 
+A demonstration of this exercise is available at [https://youtu.be/9ESYyhbofq8](https://youtu.be/9ESYyhbofq8)
+
 This exercise will get you much closer to a basic solution to Project 01. You will be implementing the game loop using render, get_input, and update functions.
 
 Begin by Forking this repository. Check that it has been forked successfully; the repository should now read [your username]/Exercise-01d-render-get_input-update
